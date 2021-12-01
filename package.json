@@ -1,0 +1,14 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Structures/index.js",
+  "keywords": [],
+  "author": "Kavkaz",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.4.0-dev.1637237217.802a5ac",
+    "glob": "^7.2.0"
+  }
+}
